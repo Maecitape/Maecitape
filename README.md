@@ -7,6 +7,5 @@ Soy Administradora de Empresas, Master en Comercio Internacional con **12 años*
 ## Contacto
 
 - :e-mail: tatapeco@gmail.com
-- :computer: https://www.linkedin.com/in/margarethpenae/
 - :telescope: https://github.com/Maecitape
 
