@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hola, Soy Mae! ✨
 
-<!--
-**Maecitape/Maecitape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Administradora de Empresas, Master en Comercio Internacional con **12 años** de experiencia en Educación Virtual, trabajo remoto, revisión y seguimiento planes de mejoramiento (Registro calificado) y manejo de plataformas de E-learning. Gestión de procesos administrativos.
 
-Here are some ideas to get you started:
+:memo: Ahora en el Bootcamp de Undefined Shell. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+
+- :e-mail: tatapeco@gmail.com
+- :computer: https://www.linkedin.com/in/margarethpenae/
+- :telescope: https://github.com/Maecitape
+
+
+
